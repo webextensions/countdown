@@ -1,5 +1,5 @@
-# countdown (`@webextensions/countdown`)
-A simple countdown timer CLI application
+# @webextensions/countdown
+A simple countdown timer CLI application.
 
 # Usage without installation
 
