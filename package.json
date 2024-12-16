@@ -1,0 +1,45 @@
+{
+    "name": "@webextensions/countdown",
+    "version": "0.0.0",
+    "description": "A simple countdown timer CLI application",
+    "engines": {
+        "node": ">=18"
+    },
+    "main": "index.js",
+    "bin": {
+        "countdown": "./index.js"
+    },
+    "scripts": {
+        "test": "echo \"Warning: No tests specified\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/webextensions/countdown.git"
+    },
+    "bugs": {
+        "url": "https://github.com/webextensions/countdown/issues"
+    },
+    "homepage": "https://github.com/webextensions/countdown#readme",
+    "author": "https://www.webextensions.org/",
+    "license": "MIT",
+    "keywords": [
+        "abort",
+        "application",
+        "cancel",
+        "cli",
+        "command",
+        "complete",
+        "countdown",
+        "ctrl+c",
+        "delay",
+        "interface",
+        "line",
+        "message",
+        "seconds",
+        "simple",
+        "timer"
+    ],
+    "publishConfig": {
+        "access": "public"
+    }
+}
